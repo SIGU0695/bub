@@ -11,7 +11,7 @@ class Bubble{
       
       bubbles(){
       //  this.pos = random()
-        
+        //you too
           this.pos.x = this.pos.x +=random(-2,2);
       this.pos.y = this.pos.y += this.pos.hast
         fill(0,0,255);
