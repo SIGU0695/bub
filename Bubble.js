@@ -14,7 +14,7 @@ class Bubble{
         
           this.pos.x = this.pos.x +=random(-2,2);
       this.pos.y = this.pos.y += this.pos.hast
-        
+        fill(0,0,255);
       ellipse(this.pos.x,this.pos.y,this.size);    
       
         
