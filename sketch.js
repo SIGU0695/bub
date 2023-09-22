@@ -1,4 +1,4 @@
-let mængdebubbles = 10;
+let mængdebubbles = 15;
 
 let bubble = [];
 
@@ -18,7 +18,7 @@ function draw() {
   for (let i = 0; i < mængdebubbles; i++){
     
 bubble[i].bubbles();
-   
+   //hej
   }
   
 }
