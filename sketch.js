@@ -1,4 +1,4 @@
-let mængdebubbles = 20;
+let mængdebubbles = 10;
 
 let bubble = [];
 
